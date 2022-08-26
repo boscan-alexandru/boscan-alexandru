@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.boscan-alexandru.dev/" target="_blank" rel="noreferrer"><img src="https://influendoo.com/images/github_alex_boscan/github_alex_boscan_cover.jpg" alt="Alex Boscan Banner"></a>
+  <a href="https://www.boscan-alexandru.dev/" target="_blank" rel="noreferrer"><img src="https://influendoo.com/images/github_alex_boscan/github_alex_boscan_cover2.jpg" alt="Alex Boscan Banner"></a>
 </p>
 <h3 align="center">
 Hi there, I'm <a href="https://www.boscan-alexandru.dev/" target="_blank" rel="noreferrer">Alex</a>
