@@ -13,7 +13,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/alexandru-bo%C8%99can/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Boscan Alexandru | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/alexandru-boscan/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Boscan Alexandru | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/alx_b___/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Boscan Alexandru | Instagram" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -27,9 +27,6 @@ I love the entire process of developing creative websites. I love the challenge 
 - My Devops skills
 
 ## 🌱 I'm currently learning
-
-- Nuxt.js
-- Firebase
 - React.js
 
 ## 💼 Technical Skills
