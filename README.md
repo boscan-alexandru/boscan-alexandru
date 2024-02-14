@@ -31,7 +31,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue&color=61DAFB)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Pinia-informational?style=flat&logo=Pinia&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
