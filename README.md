@@ -21,8 +21,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🔭 I'm currently working on
 
 - Teamjob - a recruiting platform (Vue.js & PHP Laravel)
-- Online Consultation App (Vue.js & PHP Laravel) --> <a href="https://www.talkly.it" target="_blank">Cartomanzia al telefono</a> Called Talkly.it
-- Online Tarot Blog to help the SEO of the consultation app --> <a href="https://www.cartomanti.live" target="_blank">Cartomanzia al telefono</a>
+- Online Consultation App (Vue.js & PHP Laravel) --> <a href="https://www.talkly.it" target="_blank">cartomanzia al telefono</a> Called Talkly.it
+- Online Tarot Blog to help the SEO of the consultation app --> <a href="https://www.cartomanti.live" target="_blank">cartomanzia al telefono</a>
 - My portoflio
 - Influendoo website (My current company)
 - My Devops skills
