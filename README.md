@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://www.boscan-alexandru.dev/" target="_blank" rel="noreferrer"><img src="https://influendoo.com/images/github_alex_boscan/github_alex_boscan_cover2.jpg" alt="Alex Boscan Banner"></a>
+  <a href="https://www.boscan-alexandru.dev/" target="_blank"><img src="https://influendoo.com/images/github_alex_boscan/github_alex_boscan_cover2.jpg" alt="Alex Boscan Banner"></a>
 </p>
 <h3 align="center">
-Hi there, I'm <a href="https://www.boscan-alexandru.dev/" target="_blank" rel="noreferrer">Alex</a>
+Hi there, I'm <a href="https://www.boscan-alexandru.dev/" target="_blank">Alex</a>
 </h3>
 
 <h2 align="center">
@@ -21,7 +21,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🔭 I'm currently working on
 
 - Teamjob - a recruiting platform (Vue.js & PHP Laravel)
-- Online Consultation App (Vue.js & PHP Laravel)
+- Online Consultation App (Vue.js & PHP Laravel) --> <a href="https://www.talkly.it" target="_blank">Cartomanzia al telefono</a> Called Talkly.it
+- Online Tarot Blog to help the SEO of the consultation app --> <a href="https://www.cartomanti.live" target="_blank">Cartomanzia al telefono</a>
 - My portoflio
 - Influendoo website (My current company)
 - My Devops skills
